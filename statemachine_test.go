@@ -1,4 +1,4 @@
-package util
+package gosm
 
 import (
 	"fmt"
