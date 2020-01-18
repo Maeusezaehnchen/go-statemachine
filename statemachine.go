@@ -1,4 +1,4 @@
-package util
+package gosm
 
 type Connection struct {
 	From *State
